@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Getvowel.cs\bin\Debug\Getvowel.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Getvowel.cs\bin\Debug\Getvowel.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Getvowel.cs\obj\x86\Debug\Getvowel.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\Getvowel.cs\obj\x86\Debug\Getvowel.cs.pdb

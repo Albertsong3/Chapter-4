@@ -17,14 +17,8 @@ namespace sum
                Total += I;
                Console.WriteLine("   " + Total);
                if (Total >= 999)
-               break;
+                   
            }
-
-
-            
-
-          
-
         }
     }
 }
