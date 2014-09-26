@@ -15,8 +15,8 @@ namespace Getvowel.cs
             {
                 int I = Convert.ToInt32(Console.ReadLine());
                 Total += I;
-                Console.WriteLine("   " + Total);
-                if (Total >= 999)
+                Console.WriteLine("The total is   " + Total);
+                if (Total I>= 999)
                     break;
             }
         }
